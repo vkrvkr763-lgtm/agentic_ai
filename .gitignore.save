@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Cache
+.pytest_cache/
+
+# Model files (if large)
+*.pt
+*.pth
+*.h5
+
+# OS
+.DS_Storevenv/
+__pycache__/
+.env
+*.pyc
+uploads/
